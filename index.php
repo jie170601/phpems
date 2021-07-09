@@ -20,3 +20,4 @@ require __DIR__.'/lib/init.cls.php';
 
 $ginkgo = new ginkgo();
 $ginkgo->run();
+
